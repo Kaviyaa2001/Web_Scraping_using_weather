@@ -1,0 +1,7 @@
+INFO,Step 1: Logging initialized.,2024-02-10 14:51:40,032
+INFO,Step 2: URL retrieved from the configuration file.,2024-02-10 14:51:40,052
+INFO,Step 3: Trying to send a GET request to the URL.,2024-02-10 14:51:40,052
+INFO,Step 4: Request successful, parsing HTML content.,2024-02-10 14:51:42,777
+INFO,Step 5: Searching for weather details container.,2024-02-10 14:51:42,884
+INFO,Step 6: Weather details container found, extracting individual details.,2024-02-10 14:51:42,886
+INFO,Script ended at: 2024-02-10 14:51:42,2024-02-10 14:51:42,893
